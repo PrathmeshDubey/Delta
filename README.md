@@ -1,2 +1,2 @@
 # Delta
-This is demo fo github class 
+This is demo fo github class. 
